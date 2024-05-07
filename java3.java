@@ -44,7 +44,7 @@ public class Main {
                 System.out.println("Looking forward to the Weekend");
         }
         
-        System.out.println("Hello");
+        System.out.println("Helo");
 
     }
 }
